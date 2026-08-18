@@ -1,2 +1,3 @@
 print("Addition", a+b)
 print("substracton",a-b)
+print("multiplication",a*b)
